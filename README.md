@@ -4,13 +4,13 @@ This is a web application that generates a random password based on the user's s
 
 ## Table of Contents
 
-- [Installation]
-- [Usage]
-- [Features]
-- [License]
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/password-generator.git
+1. Clone the repository: git clone https://github.com/josejrod07/Password-Generator.git
 2. Open index.html in your web browser.
 
 ## Usage
@@ -20,7 +20,8 @@ This is a web application that generates a random password based on the user's s
 
 ## Features
 - Customizable password length between 8 and 128 characters.
-- Option to include lowercase letters in the password.Option to include uppercase letters in the password.
+- Option to include lowercase letters in the password.
+- Option to include uppercase letters in the password.
 - Option to include numbers in the password.
 - Option to include special characters in the password.
 - Validation of user input to ensure at least one character type is selected.
